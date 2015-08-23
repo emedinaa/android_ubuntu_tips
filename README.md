@@ -7,4 +7,5 @@ sudo apt-get install android-tools-adb android-tools-fastboot
 # Droidscreen en Ubuntu
 http://droid-at-screen.org/
 
-#
+# Record Video Android 4.4
+adb shell screenrecord /sdcard/FILENAME.mp4 (3 minutos)
